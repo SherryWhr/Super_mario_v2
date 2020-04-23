@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/AU2017/CSE3902/mario/Game/FlugelMario/Content/v_titleMusic.mp3</SourceFile>
+  <SourceTime>2017-11-14T15:29:04.0738504-05:00</SourceTime>
+  <DestFile>E:/AU2017/CSE3902/mario/Game/FlugelMario/Content/bin/Windows/v_titleMusic.xnb</DestFile>
+  <DestTime>2017-11-14T15:34:48.3544937-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/AU2017/CSE3902/mario/Game/FlugelMario/Content/bin/Windows/v_titleMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

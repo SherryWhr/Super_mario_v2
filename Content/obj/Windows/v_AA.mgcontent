@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/AU2017/CSE3902/mario/Game/FlugelMario/Content/v_AA.wav</SourceFile>
+  <SourceTime>2017-11-16T14:11:47.0020087-05:00</SourceTime>
+  <DestFile>E:/AU2017/CSE3902/mario/Game/FlugelMario/Content/bin/Windows/v_AA.xnb</DestFile>
+  <DestTime>2017-11-16T14:12:30.8891037-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
